@@ -1,4 +1,4 @@
-# Phase_2_Final_Project
+# Phase 2 Final_Project
 
 ## Business Understanding
 
@@ -19,6 +19,8 @@ After detecting missing values, I dealt with them by deletion.
 I performed data type conversion as need as well as categorical data, taken as predictor variable, in dummy variables.
 I proceeded also with log transformation in order to ensure a normal distribution.
 Given the nature of the business problem I have to answer to, I performed a simple linear regression.
+I added appropriate visualization.
+The use of dummy variables presented some chanlleges.
 
 ## Conclusions
 
