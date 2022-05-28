@@ -20,7 +20,7 @@ I performed data type conversion as need as well as categorical data, taken as p
 I proceeded also with log transformation in order to ensure a normal distribution.
 Given the nature of the business problem I have to answer to, I performed a simple linear regression.
 I added appropriate visualization.
-The use of dummy variables presented some chanlleges.
+The use of dummy variables presented some challenges.
 
 ## Conclusions
 
